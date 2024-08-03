@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
   "devDependencies": {
 	  "clean-webpack-plugin": "^4.0.0",
 	  "css-loader": "^6.7.1",
